@@ -1,5 +1,5 @@
 {
-  "name": "@niefajnaiwonka/yet-another-test",
+  "name": "expert-garbanzo-source-map-false",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/cjs/index.js",
@@ -37,10 +37,6 @@
     "react-dom": "^18.2.0",
     "ts-jest": "^29.1.1",
     "typescript": "^5.2.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gapon2401/my-react-typescript-package.git"
   },
   "peerDependencies": {
     "react": ">=16"
