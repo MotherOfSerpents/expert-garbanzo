@@ -1,2 +1,1 @@
-import MyCounter from './App'
-export { MyCounter } //to moze byc to
+export * from './MyCounter'
