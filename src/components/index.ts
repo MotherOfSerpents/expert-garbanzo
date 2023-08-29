@@ -1,1 +1,1 @@
-export * from './MyCounter'
+export {MyCounter} from './MyCounter'
