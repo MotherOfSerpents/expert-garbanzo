@@ -1,13 +1,12 @@
 {
-  "name": "expert-garbanzo-source-map-false-deps-deleted4",
-  "version": "1.2.0",
+  "name": "expert-garbanzo-source-map-false-deps-deleted6",
+  "version": "1.0.0",
   "description": "",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
   "scripts": {
     "build": "yarn build:esm && yarn build:cjs",
-    "prepare": "npm run build",
     "build:esm": "tsc",
     "build:cjs": "tsc --module commonjs --outDir dist/cjs"
   },
